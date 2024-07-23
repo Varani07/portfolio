@@ -33,6 +33,13 @@ const ProjectPage = () => {
 						image = "/microsservices.png"
 						href = "https://github.com/lucaskissmann/delivery-microsservices"
 					/>
+					<ProjectCard
+						title = "Delivery Microsservices"
+						technologies = "Java, Spring, Eureka, Gateway API, Feign Client"
+						description = "O Projeto é uma solução de entrega, organizada em microsserviços para gerenciar pedidos e pagamentos. Utilizando Service Discovery e Gateway, oferece comunicação entre serviços, além de resiliência com Circuit Breaker e fallback."
+						image = "/microsservices.png"
+						href = "https://github.com/lucaskissmann/delivery-microsservices"
+					/>
 			</section>
 		</div>
 	)

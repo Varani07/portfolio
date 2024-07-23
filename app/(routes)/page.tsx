@@ -32,7 +32,7 @@ const HomePage = () => {
         </h1>
         <ul className="list-disc pl-5 space-y-2">
           <li>
-            <LevelProgress label={"Java"} level={4} />
+            <LevelProgress label={"Java"} level={5} />
           </li>
           <li>
             <LevelProgress label={"Spring"} level={4} />
