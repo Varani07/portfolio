@@ -29,12 +29,12 @@ export function MenuToggle() {
         </DropdownMenuItem>
         <DropdownMenuSeparator />
         <DropdownMenuItem asChild>
-          <Link href="https://github.com/lucaskissmann/" target="_blank" rel="noopener noreferrer">
+          <Link href="https://github.com/Varani07/" target="_blank" rel="noopener noreferrer">
             GitHub
           </Link>
         </DropdownMenuItem>
         <DropdownMenuItem asChild>
-          <Link href="https://www.linkedin.com/in/lucas-kissmann-862395207/" target="_blank" rel="noopener noreferrer">
+          <Link href="https://www.linkedin.com/in/matheus-varani-739ba7287/" target="_blank" rel="noopener noreferrer">
             LinkedIn
           </Link>
         </DropdownMenuItem>

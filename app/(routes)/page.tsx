@@ -16,14 +16,14 @@ const HomePage = () => {
         </div>
       </section>
       <section className="flex col-span-1">
-        <Image src={'/eu-portfoil.jpeg'} height={100} width={400} alt="Imagem de Lucas Kissmann" className="max-w-full h-auto" />
+        <Image src={'/eu-portfoil.jpeg'} height={100} width={400} alt="Imagem de Matheus Varani" className="max-w-full h-auto" />
       </section>
       <section className="pr-0 md:pr-10 space-y-4 col-span-1 ">
         <h1 className="text-2xl font-ttsupermolot-bold">
           Sobre mim
         </h1>
         <p className="text-md leading-tight">
-          Minha relação com a tecnologia começou cedo, devido a um forte interesse por jogos na minha infância, chegando a atuar brevemente como profissional na adolescência. <br/><br/>Aos 19 anos, após o serviço militar, ingressei na faculdade de Engenharia de Controle e Automação na UFPEL, onde tive meu primeiro contato significativo com a programação. Decidi então cursar Engenharia de Software e hoje, com 23 anos, estou iniciando uma nova jornada na minha carreira aqui na DB. <br/><br/> Depois de 2 anos como desenvolvedor backend Java em outra empresa, senti a necessidade de buscar novos desafios para continuar minha evolução profissional. A oportunidade na DB representa um passo adiante significativo, onde espero aplicar e expandir meus conhecimentos técnicos, contribuindo para projetos inovadores e desafiadores.
+          Meu contato com ferramentas para o desenvolvimento aconteceram por incentivo de meus parentes, não imaginava que iria sentir tamanho interesse e quando me dei conta, já tinha feito da tecnologia meu objetivo. <br/><br/>Atuando como Assistente em TI na RandonCorp no momento, pretendo me desenvolver ao máximo para ter segurança total em minhas habilidades e cada vez mais desenvolver e pensar de forma inovadora.
         </p>
       </section>
       <section className="space-y-4 col-span-1 ">
@@ -32,31 +32,13 @@ const HomePage = () => {
         </h1>
         <ul className="list-disc pl-5 space-y-2">
           <li>
-            <LevelProgress label={"Java"} level={5} />
+            <LevelProgress label={"Python"} level={4} />
           </li>
           <li>
-            <LevelProgress label={"Spring"} level={4} />
+            <LevelProgress label={"UiPath"} level={4} />
           </li>
           <li>
-            <LevelProgress label={"Docker"} level={4} />
-          </li>
-          <li>
-            <LevelProgress label={"TypeScript"} level={4} />
-          </li>
-          <li>
-            <LevelProgress label={"Tailwind"} level={4} />
-          </li>
-          <li>
-            <LevelProgress label={"NodeJS"} level={3} />
-          </li>
-          <li>
-            <LevelProgress label={"NestJS"} level={3} />
-          </li>
-          <li>
-            <LevelProgress label={"NextJS"} level={3} />
-          </li>
-          <li>
-            <LevelProgress label={"React"} level={3} />
+            <LevelProgress label={"Java"} level={3} />
           </li>
         </ul>
       </section>

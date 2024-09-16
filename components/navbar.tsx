@@ -20,10 +20,10 @@ const Navbar = () => {
             </div>
           </div>
           <div className="hidden sm:flex ml-auto items-center gap-x-4">
-            <Link href="https://github.com/lucaskissmann" target="_blank" rel="noopener noreferrer">
+            <Link href="https://github.com/Varani07" target="_blank" rel="noopener noreferrer">
               <Image src="/github.svg" height={30} width={30} alt="GitHub Icon" />
             </Link>
-            <Link href="https://www.linkedin.com/in/lucas-kissmann-862395207/" target="_blank" rel="noopener noreferrer">
+            <Link href="https://www.linkedin.com/in/matheus-varani-739ba7287/" target="_blank" rel="noopener noreferrer">
               <Image src="/linkedin.svg" height={30} width={30} alt="LinkedIn Icon" />
             </Link>
           </div>
