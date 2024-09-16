@@ -9,10 +9,10 @@ const HomePage = () => {
           Olá, meu nome é
         </div>
         <div className="text-5xl font-bold">
-          Lucas Kissmann
+          Matheus Cirne Varani
         </div>
         <div className="text-2xl font-ttsupermolot-normal">
-          Sou desenvolvedor de software na DBServer
+          Sou Assistente de TI na RandonCorp
         </div>
       </section>
       <section className="flex col-span-1">
