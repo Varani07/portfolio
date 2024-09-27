@@ -16,7 +16,7 @@ const HomePage = () => {
         </div>
       </section>
       <section className="flex col-span-1">
-        <Image src={'/eu-portfoil.jpeg'} height={100} width={400} alt="Imagem de Matheus Varani" className="max-w-full h-auto" />
+        <Image src={'/eu-portfoil.jpeg'} height={100} width={300} alt="Imagem de Matheus Varani" className="max-w-full h-auto" />
       </section>
       <section className="pr-0 md:pr-10 space-y-4 col-span-1 ">
         <h1 className="text-2xl font-ttsupermolot-bold">
